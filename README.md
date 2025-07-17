@@ -14,7 +14,7 @@
     }
     body {
       /* 背景画像を全面に表示 */
-      background: url('[DSC01586.JPG](https://github.com/haikei-nituite/home/blob/main/DSC01586.JPG?raw=true)') no-repeat center/cover;
+      background: url('https://github.com/haikei-nituite/home/blob/main/DSC01586.JPG?raw=true)') no-repeat center/cover;
       background-attachment: fixed;
     }
     .container {
