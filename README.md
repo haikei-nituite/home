@@ -13,7 +13,7 @@
     }
     body {
       /* 背景画像を全面に表示 */
-      background: url('DSC01586.JPG') no-repeat center/cover;
+      background: url('![Image](https://github.com/user-attachments/assets/6604f572-8738-4425-bd81-b57f612dc19e)') no-repeat center/cover;
       background-attachment: fixed;
     }
     .container {
